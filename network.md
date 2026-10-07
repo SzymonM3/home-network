@@ -10,6 +10,10 @@ Sieć została wykonana z myślą o stabilnej komunikacji pomiędzy urządzeniam
 
 Centralnym punktem infrastruktury jest szafa rack 9U znajdująca się w garażu. W szafie znajdują się urządzenia sieciowe oraz Homelab.
 
+![Szafa rack z infrastrukturą sieciową](images/home-network-rack.JPEG)
+
+Zdjęcie przedstawia fizyczną infrastrukturę sieciową znajdującą się w szafie rack 9U.
+
 Układ urządzeń w szafie, od góry:
 
 1. Górna półka — ONT oraz router TP-Link ER605.
